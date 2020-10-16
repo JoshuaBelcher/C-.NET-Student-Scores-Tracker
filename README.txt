@@ -1,1 +1,1 @@
-Windows Forms application created for a midterm project. Allows the user to load an external list of students and their test scores, which may be altered inside the application. The resulting information is saved back into the external text file.
+Windows Forms application created for a midterm project. Allows the user to load an external list of students and their test scores, which may be altered inside the application. Resulting information is saved back into the external text file.
