@@ -1,0 +1,3 @@
+97|71|83|Joel Murach
+99|93|97|Doug Lowe
+100|100|100|Anne Boehm
