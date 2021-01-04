@@ -15,8 +15,7 @@ namespace M08_MTPP_5_1_Belcher_Joshua {
             InitializeComponent();
         }
 
-        // NOTE: dir variable will need to be changed to run program properly. I'm currently unsure how to implement a relative filepath.
-        private const string dir = @"C:\Users\Josh\Desktop\Ivy Tech Classes\Ivy Fall 2020\SDEV240_C#\homework\M08-MTPP-5-1_Belcher_Joshua\M08-MTPP-5-1_Belcher_Joshua\";
+        private const string dir = @"..\..\";
         private const string path = dir + "StudentScores.txt";
 
         private List<Student> students = new List<Student>();
